@@ -6,7 +6,7 @@
 
 因为这里是公开的你有想添加的内容欢迎各位 `pull requests`
 如果有翻译有问题可以开 [issue](https://github.com/ifkn271/minecraft-worlds/issues) 提交错误.
-当然如果你有学习上的问题也可以开[issue](https://github.com/ifkn271/minecraft-worlds/issues) 提交错误 发出来让大家一起学习一起解决问题
+当然如果你有学习上的问题也可以开 [issue](https://github.com/ifkn271/minecraft-worlds/issues) 提交错误 发出来让大家一起学习一起解决问题
 
 
 ---
