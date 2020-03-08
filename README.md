@@ -17,6 +17,6 @@
     - 如果是几句不会不会翻译的当然是可以的 **q(≧▽≦q)**
 3.  全部内容如果不特别声明都以 `BY-NC-SA` 发布
 <img src="https://s2.ax1x.com/2020/03/09/8SAEGT.png" alt="8SAEGT.png" border="0" />
-> 什么?! 你不知道这是什么 这是知识共享协议 
-> 请到[Wikipedia](https://zh.wikipedia.org/wiki/%E7%9F%A5%E8%AF%86%E5%85%B1%E4%BA%AB%E8%AE%B8%E5%8F%AF%E5%8D%8F%E8%AE%AE)查看
-> 当然 [百度](baidu.com) [知乎](https://www.zhihu.com) 都是可以的 **QWQ**
+>  什么?! 你不知道这是什么 这是知识共享协议 
+>  请到[Wikipedia](https://zh.wikipedia.org/wiki/%E7%9F%A5%E8%AF%86%E5%85%B1%E4%BA%AB%E8%AE%B8%E5%8F%AF%E5%8D%8F%E8%AE%AE)查看
+>  当然 [百度](baidu.com) [知乎](https://www.zhihu.com) 都是可以的 **QWQ**
