@@ -1,12 +1,12 @@
-# minecraft-worlds
-### 这里是我收集一些`minecraft`的专有名词+一些我我不会的词
+# minecraft-wordlist
+### 这里是我收集的一些`minecraft`的专有名词 + 一些我不会的词 
 
-你可以理解为这是一个公开的 `biological dictionary for minecraft` :)
+你可以理解为这是一个公开的 `Binligual dictionary for minecraft`  :)
 
 
 因为这里是公开的你有想添加的内容欢迎各位 `pull requests`
 如果有翻译有问题可以开 [issue](https://github.com/ifkn271/minecraft-worlds/issues) 提交错误.
-当然如果你有学习上的问题也可以开[issue](https://github.com/ifkn271/minecraft-worlds/issues) 提交错误 发出来让大家一起学习一起解决问题
+当然如果你有学习上的问题也可以开 [issue](https://github.com/ifkn271/minecraft-worlds/issues) 提交错误 发出来让大家一起学习一起解决问题
 
 
 ---
