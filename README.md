@@ -1,4 +1,4 @@
-# minecraft-worldslist
+# minecraft-wordlist
 ### 这里是我收集的一些`minecraft`的专有名词 + 一些我不会的词 
 
 你可以理解为这是一个公开的 `Binligual dictionary for minecraft`  :)
